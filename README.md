@@ -46,7 +46,7 @@ To get your event featured on the [codeinthedark.com](http://codeinthedark.com) 
 </p>
 ```
 
-Replace `[CITY]`, `[DATE]` and `[LINK_TO_RSVP_PAGE]` with your information. Here's an example:
+Replace `[Maputo]`, `[04]` and `[facebook.com]` with your information. Here's an example:
 
 ```html
 <p>
